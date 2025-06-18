@@ -1,6 +1,6 @@
 <h1>Hello folks, I'm Mara 🧙🏼‍♀️</h1>
 
-<img align="right" alt="gif" src="https://tenor.com/H3I5D5mnd1.gif" width="450">
+<img align="right" alt="gif" src="[https://tenor.com/H3I5D5mnd1.gif](https://tenor.com/view/туалет-копатыч-gif-458855561756919283)" width="450">
 <p align="left">
 
 - Software Backend Engeneer
