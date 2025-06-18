@@ -1,6 +1,6 @@
 <h1>Hello folks, I'm Копатыч 🧙🏼‍♀️</h1>
 
-![Туалет Копатыч](https://tenor.com/H3I5D5mnd1.gif) 
+![Туалет Копатыч](https://tenor.com/view/туалет-копатыч-gif-458855561756919283) 
 
 - Software Backend Engineer
 - Langs: Go, PHP, Rust
