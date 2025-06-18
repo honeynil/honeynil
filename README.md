@@ -8,6 +8,6 @@
     - **Geek at:** arch linux, neovim, TUIs, split keyboards, qmk, soldering, CRT monitors
   </div>
   <div>
-    ![Туалет Копатыч]([https://media.tenor.com/your-gif-id.gif](https://tenor.com/H3I5D5mnd1.gif)) 
+    ![Туалет Копатыч](https://tenor.com/H3I5D5mnd1.gif) 
   </div>
 </div>
