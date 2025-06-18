@@ -1,4 +1,4 @@
-<h1>Hello folks, I'm Mara 🧙🏼‍♀️</h1>
+<h1>Hello folks,</h1>
 
 ![Туалет Копатыч](https://media.tenor.com/your-gif-id.gif) 
 
