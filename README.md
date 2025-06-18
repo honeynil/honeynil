@@ -2,7 +2,7 @@
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <div>
-    - **Я коплю на пасеку 🐝**  
+    - Я коплю на пасеку 🐝
       <strong>Цель:</strong> <span style="color: #ff6f61;">$68,000</span>  
       <strong>Сейчас:</strong> <span style="color: #4caf50;">$2,503</span>  
 
