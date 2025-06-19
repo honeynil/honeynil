@@ -11,13 +11,12 @@
   
   **🍯 Цель:** $68,000 на пасеку  
   **💰 Накоплено:** $2,503 (3.68%)
-  
-  ```progress
+
   Title: Прогресс
   Width: 70%
   Color: 'linear-gradient(90deg, #ffdf00, #ff9100)'
   Border: honey
-  ```
+
   
   <img src="https://media.giphy.com/media/3o7btLQQQXQvLZp7Y4/giphy.gif" width="30" style="float: right;">
   
