@@ -29,7 +29,7 @@
 
 <div align="center">
   
-[![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=ВАШ_НИК&show_icons=true&theme=radical)](https://github.com/ВАШ_НИК)
+[![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=ВАШ_НИК&show_icons=true&theme=radical)](https://github.com/honeynil)
 
 </div>
 
