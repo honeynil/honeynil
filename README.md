@@ -4,7 +4,7 @@
 <p align="left">
 
 - Software Backend Engineer
-- Langs: Go, С, Ada
+- Langs: Go, С++, C
 - Ultimate goal: Own an apiary
 
 <!---
